@@ -1,6 +1,11 @@
 {
   "canales": [
     {
+      "nombre": "ESPN ",
+      "logo": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",
+      "url": "https://wf6kt.envivoslatam.org/espnar/tracks-v1a1/mono.m3u8?ip=186.39.117.205&token=70a67d1419daae01927ef2db44ef72af8e4f1f40-73-1773475558-1773421558"
+    },
+    {
       "nombre": "ESPN PREMIUM",
       "logo": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",
       "url": "https://fgg896.marsrivagg.click/espnpremium/tracks-v1a1/mono.m3u8?ip=186.39.117.205&token=93d397be155485629aaaeadcca4e98b438a4cc7f-5c-1773474163-1773420163"
@@ -14,6 +19,21 @@
       "nombre": "Tyc Sport Premium",
       "logo": "https://i.ytimg.com/vi/Pps-CiCbGu8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCCCc-qes5M4r68YOi4wQt1z_n0Dg",
       "url": "https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8"
+     },
+    {
+      "nombre": "TNT Sport Premium",
+      "logo": "https://tavilatam.com/wp-content/uploads/2025/04/TAVI_TNT-Sports_Liga-Profesional.png",
+      "url": "https://rci1w.envivoslatam.org/tntsports/tracks-v1a1/mono.m3u8?ip=186.39.117.205&token=abe244d67c071ef5a2af7b3ef310b425acfed005-70-1773475143-1773421143"
+     },
+    {
+      "nombre": "DirecTV Sport",
+      "logo": "https://pbs.twimg.com/media/FhSdYd1WAAE8b5R.jpg",
+      "url": "https://ng0pr.envivoslatam.org/hotflix/dsports/index.m3u8?token=eb4cf0efd81e65ca459c941ef4a37c72135de6a4-5b-1773475328-1773421328&ip=186.39.117.205"
+     },
+    {
+      "nombre": "Fox Sport",
+      "logo": "https://media.a24.com/p/0dd682562f7da2656cc486b27828af58/adjuntos/296/imagenes/008/323/0008323726/1200x675/smart/fox-sportshjpg.jpg",
+      "url": "https://j8nte.envivoslatam.org/foxsports/tracks-v1a1/mono.m3u8?ip=186.39.117.205&token=7dbf6287c47dd6337f68b40b8e7596414261ab2b-0d-1773475443-1773421443"
     }
   
   

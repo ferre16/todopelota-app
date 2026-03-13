@@ -1,14 +1,22 @@
 {
   "canales": [
     {
-      "nombre": "ESPN",
+      "nombre": "ESPN PREMIUM",
       "logo": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",
-      "url": "https://98ca2.streameasthd.net/espn/index.m3u8"
-    },
+      "url": "https://fgg896.marsrivagg.click/espnpremium/tracks-v1a1/mono.m3u8?ip=186.39.117.205&token=93d397be155485629aaaeadcca4e98b438a4cc7f-5c-1773474163-1773420163"
+    }
     {
       "nombre": "Tyc Sports",
-      "logo": "https://logowik.com/content/uploads/images/tnt-sports-premium4090.logowik.com.webp",
+      "logo": "https://i.ytimg.com/vi/Pps-CiCbGu8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCCCc-qes5M4r68YOi4wQt1z_n0Dg",
       "url": "https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8"
     }
+    {
+      "nombre": "Tyc Sport Premium",
+      "logo": "https://i.ytimg.com/vi/Pps-CiCbGu8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCCCc-qes5M4r68YOi4wQt1z_n0Dg",
+      "url": "https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8"
+    }
+  
+  
+  
   ]
 }
